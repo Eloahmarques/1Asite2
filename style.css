@@ -23,7 +23,7 @@ nav{
 nav a{
     text-tranform:uppercase;/*letras maiusculas*/
     color: black; /* cor das letras pretas*/
-    font-weight: bold; /*tamanho da fonte */
+    font-weight: bold; /*fonte negrito*/
     font-size: 22px; /*tamanho da fonte */
     text-decoration: none;* retirar o sublinhado do texto*/
 }
