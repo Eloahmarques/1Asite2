@@ -13,16 +13,16 @@ nav{
     position: absolute;
     top: 110px;
     right: 0;
-
 }
+
 nav{
     display: inline;
-    margin:  0 0 0 15px;/*espaçamento externo*/
+    margin: 0 0 0 15px;/*espaçamento externo*/
 }
 
 nav a{
-    text-tranform:uppercase;/*letras maiusculas*/
-    color: black; /* cor das letras pretas*/
+    text-transform: uppercase;/*letras maiusculas*/
+    color:#000000; /* cor das letras pretas*/
     font-weight: bold; /*fonte negrito*/
     font-size: 22px; /*tamanho da fonte */
     text-decoration: none;/* retirar o sublinhado do texto*/
