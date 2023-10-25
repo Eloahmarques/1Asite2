@@ -25,5 +25,5 @@ nav a{
     color: black; /* cor das letras pretas*/
     font-weight: bold; /*fonte negrito*/
     font-size: 22px; /*tamanho da fonte */
-    text-decoration: none;* retirar o sublinhado do texto*/
+    text-decoration: none;/* retirar o sublinhado do texto*/
 }
