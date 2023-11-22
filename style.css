@@ -27,3 +27,17 @@ nav a{
     font-size: 22px; /*tamanho da fonte */
     text-decoration: none;/* retirar o sublinhado do texto*/
 }
+
+.produtos {  
+       display: inline-block;
+       margin: 0 auto;
+       padding: 50px0;
+}
+
+.produtos{
+      display: inline-block;
+      text-align: center;
+      vertical-align: top;
+      padding: 30px20px;
+      box-sizing: border-box;
+}
